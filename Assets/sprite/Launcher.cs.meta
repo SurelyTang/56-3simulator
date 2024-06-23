@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b9ae3e2e8b295614595b7118b406e6dc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - characterPrefab: {fileID: 4814632478370291643, guid: 27cf88ab61192d74691b3d5d76d824d3, type: 3}
+  - characterPrefab1: {fileID: 4814632478370291643, guid: 27cf88ab61192d74691b3d5d76d824d3, type: 3}
+  - characterPrefab2: {fileID: 4814632478370291643, guid: 27cf88ab61192d74691b3d5d76d824d3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
